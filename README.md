@@ -20,7 +20,7 @@ I am a Programmer from Iraq.
  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DabdobaDev&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DabdobaDev&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DabdobaDev&show_icons=true&theme=radical&line_height=21" alt="github stats"/>
  
  
