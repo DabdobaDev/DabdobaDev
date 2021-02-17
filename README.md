@@ -1,7 +1,7 @@
 ### Hi there, I'm Dabi! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DabdobaDev" alt="Dabi-ops-cyber" /> </p>
 
-
+![Discord](https://discord.c99.nl/widget/theme-2/647142424333910037.png)
 
 
 
