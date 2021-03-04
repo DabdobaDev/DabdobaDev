@@ -11,8 +11,8 @@
 ### Hey i'm Dbdob Good to see you here! &nbsp;
 
 I am a Programmer from Iraq.
- - 🌱 I’m currently learning Html
-- 📫 Add Me On Discord? Va , Dabdob Kun#4199
+ -  I’m currently learning Html
+- What Is Your Name In Discord? Dabi || Dabdob Kun#4199
 
 
 **Languages and Tools:** &nbsp;
